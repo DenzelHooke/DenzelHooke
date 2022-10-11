@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on videoChattrr. A lightweight video call platform for fun :)
+- 🔭 I’m currently working on videoChattrr. A lightweight video chatting platform for fun :)
 - 🌱 I’m currently learning how to never get a bug in my code again.
 - 👯 I’m looking to collaborate on web development with anyone who's interested.
 - 💬 Ask me about anything your heart desires. I'm an open book.
