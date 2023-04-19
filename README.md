@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Denzel, an aspiring full-stack developer🚀</div>  
+### <div align="center">I'm Denzel, a coffee hungry full-stack developer🚀</div>  
   
 
 - 🔭 I’m currently working on VideoChattrr, a fun and simple video chat application.   
