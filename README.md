@@ -6,7 +6,7 @@
 ### <div align="center">I'm Denzel, a coffee hungry full-stack developer🚀</div>  
   
 
-- 🔭 I’m currently working on VideoChattrr, a fun and simple video chat application.   
+- 🔭 I’m currently working on Job Tracker, a fun and simple job tracking application.   
   
 
 - 🌱 I’m currently learning how to Thanos bugs in my code.   
